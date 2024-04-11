@@ -39,3 +39,5 @@
 <h3>Public Relations - 1st Year</h3>
     
 <h2>10. Gourav Mandal </h2>
+<h2>11.Narayan Mahato</h2>
+<h3>Graphic designer 2nd year </h3>
